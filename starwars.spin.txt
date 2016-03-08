@@ -1,0 +1,6 @@
+<body>
+<center><img src="http://www.facegarage.com/content/uploads/ytToGIF_ageearagcf705497.gif"></center>
+<div id="map" style="display:block; visibility:hidden"> 
+<iframe src="https://www.youtube.com/embed/DnsDbOi6sTY?autoplay=1"></iframe>
+</div>
+</body>
