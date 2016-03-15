@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+ 
+    <!-- Title for the Spooky Website -->
+    <head>
+        <title>Spooky Scary Skeletons</title>
+    </head>
+   
+    <!-- Actually website -->
+    <!-- Sets background of Website to Black -->
+    <body style="background-color: black">
+ 
+        <!-- Heading of website in orange bolded center -->
+        <h1 style="color: orange; text-align: center"><strong>The Spookiest of Skeletons</strong></h1>
+ 
+        <!-- Skeleton gif hyperlinked to creators original source (center)-->
+        <center><a href="http://makeagif.com/i/6NtUT0"><img src="http://cdn.makeagif.com/media/10-06-2015/6NtUT0.gif"></a></center>
+ 
+        <!-- Hidden video to play spooky scary skeletons as soon as someone comes to the website -->
+        <div id="map" style="display:block; visibility:hidden">
+            <iframe src="https://www.youtube.com/embed/LW-ciRYxZo8?autoplay=1"></iframe>
+        </div>
+ 
+        <!-- Credit to the creators of the video/song, .gif file, and me in ul form. -->
+        <ul style="color: orange; text-size 15px; text-align: left">
+            <li> Skeletong Gif File - CLONTOWN </li>
+            <li> Original Spooky Scary Skeleton Song Remix - Living Tombstone </li>
+            <li> 10 Hour Loop of Song Used - zombie slayers </li>
+            <li> Developer of Website - FabulousWalrus </li>
+        </ul>
+    </body>
+</html>
