@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>I'm a Ninja</title>
+</head>
+<body style="background-color: black">
+<h1> I'm a Ninja </h1>
+</body>
+</h1>
+</html>
